@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Wassim Rekik 👋</h1>
 <p align="center">
   CTO & Cofounder at <b>Terracall</b> | AI & SaaS Builder | Telecom Innovator
