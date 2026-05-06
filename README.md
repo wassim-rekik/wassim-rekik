@@ -55,7 +55,7 @@ CTO/cofounder at Terracall. Building SaaS and AI for telecom. 8+ yrs in product,
 
 - [LinkedIn](https://www.linkedin.com/in/wassim-rekik/)
 - [Terracall](https://terracall.io)
-- Email: wassim.rekik@gmail.com
+- Email: rekik.wassim@outlook.com
 
 ---
 
